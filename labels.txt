@@ -1,4 +1,7 @@
-aeroplane
+car
+bus
 bicycle
 bird
-boat
+person
+dog
+cat
